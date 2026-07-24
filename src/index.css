@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg-black: #000000;
+  --color-bg-dark: #191919;
+  --color-bg-card: #1E1E1E;
+  --color-border-gray: #2B2B2B;
+  --color-red-primary: #FF4D4D;
+  --color-gold: #FFC702;
+  --color-blue-glow: #1301CF;
+  --color-cyan-badge: #5BD8F8;
+  --color-pink-badge: #FD35B1;
+  --color-text-gray: #9CA3AF;
+  --color-white: #FFFFFF;
+
+  --font-orbitron: 'Orbitron', sans-serif;
+  --font-poppins: 'Poppins', sans-serif;
+}
